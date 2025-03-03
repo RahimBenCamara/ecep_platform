@@ -1,0 +1,4 @@
+Instructions à faire pour initialiser la base de données :
+1. Connectez-vous à PostgreSQL avec `sudo -u postgres psql`.
+2. Exécutez le contenu de init.sql.
+3. Appliquez les migrations Django avec `python manage.py migrate`.
