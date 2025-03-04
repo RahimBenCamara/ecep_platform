@@ -13,8 +13,8 @@ dependencies:
   flutter_secure_storage: ^8.0.0
   sqflite: ^2.2.8
   path_provider: ^2.0.11
-  firebase_core: ^2.4.0
-  firebase_messaging: ^14.2.1
+  firebase_core: ^1.10.0
+  firebase_messaging: ^13.0.0
   intl: ^0.17.0
   cached_network_image: ^3.2.3
   file_picker: ^5.2.5
