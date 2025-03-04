@@ -1,9 +1,9 @@
-0-Environnement virtuel à utiliser:
+1-Environnement virtuel à utiliser:
     "python3 -m venv venv
     source venv/bin/activate"
-1-Dépendances django à instaler:
+2-Dépendances django à instaler:
     "pip install django djangorestframework djoser pyjwt django-cors-headers psycopg2-binary firebase-admin python-decouple djangorestframework-simplejwt drf-yasg pillow requests pytest pytest-django factory-boy gunicorn"
 
-2-Lancement du serveur django:
+3-Lancement du serveur django:
     se placer dans le dossier ecep_platform/backend_django et lancer en ligne de commande: "python manage.py runserver"
         
