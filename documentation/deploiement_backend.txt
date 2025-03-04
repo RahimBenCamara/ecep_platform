@@ -1,4 +1,4 @@
-1-Environnement virtuel à utiliser:
+1-Environnement virtuel à utiliser(si non présentes):
     "python3 -m venv venv
     source venv/bin/activate"
 2-Dépendances django à instaler:
