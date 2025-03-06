@@ -1,4 +1,4 @@
 1-Dépendances flutter à instaler(si non présentes):
     "sudo apt install android-tools java-latest-openjdk npm"
-3-Lancement du serveur django:
+2-Lancement du frontend flutter:
     se placer dans le dossier ecep_platform/frontend_flutter et lancer en ligne de commande: "flutter run"
