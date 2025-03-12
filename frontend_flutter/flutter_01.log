@@ -1,0 +1,71 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+ExistingDartDevelopmentServiceException: DartDevelopmentServiceException: JSON-RPC error 100: Existing VM service clients prevent DDS from taking control.
+
+```
+```
+
+## flutter doctor
+
+```
+[32m[✓][39m Flutter (Channel stable, 3.29.0, on Fedora Linux 41 (Workstation Edition) 6.12.7-200.fc41.x86_64, locale
+    fr_FR.UTF-8) [11,5s]
+    [32m•[39m Flutter version 3.29.0 on channel stable at /home/rahim/snap/flutter/common/flutter
+    [32m•[39m Upstream repository https://github.com/flutter/flutter.git
+    [32m•[39m Framework revision 35c388afb5 (il y a 3 semaines), 2025-02-10 12:48:41 -0800
+    [32m•[39m Engine revision f73bfc4522
+    [32m•[39m Dart version 3.7.0
+    [32m•[39m DevTools version 2.42.2
+
+[32m[✓][39m Android toolchain - develop for Android devices (Android SDK version 34.0.0) [23,4s]
+    [32m•[39m Android SDK at /home/rahim/Android/Sdk
+    [32m•[39m Platform android-34, build-tools 34.0.0
+    [32m•[39m Java binary at: /home/rahim/Android/android-studio/jbr/bin/java
+      This is the JDK bundled with the latest Android Studio installation on this machine.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    [32m•[39m Java version OpenJDK Runtime Environment (build 21.0.3+-12282718-b509.11)
+    [32m•[39m All Android licenses accepted.
+
+[32m[✓][39m Chrome - develop for the web [1 686ms]
+    [32m•[39m Chrome at google-chrome
+
+[32m[✓][39m Linux toolchain - develop for Linux desktop [16,4s]
+    [32m•[39m clang version 10.0.0-4ubuntu1
+    [32m•[39m cmake version 3.16.3
+    [32m•[39m ninja version 1.10.0
+    [32m•[39m pkg-config version 0.29.1
+
+[32m[✓][39m Android Studio (version 2024.2) [1 654ms]
+    [32m•[39m Android Studio at /home/rahim/Android/android-studio
+    [32m•[39m Flutter plugin version 83.0.3
+    [32m•[39m Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+    [32m•[39m Java version OpenJDK Runtime Environment (build 21.0.3+-12282718-b509.11)
+
+[32m[✓][39m IntelliJ IDEA Community Edition (version 2024.3) [169ms]
+    [32m•[39m IntelliJ at /var/lib/snapd/snap/intellij-idea-community/572
+    [32m•[39m Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    [32m•[39m Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+
+[32m[✓][39m VS Code (version 1.96.2) [25ms]
+    [32m•[39m VS Code at /usr/share/code
+    [32m•[39m Flutter extension version 3.104.0
+
+[32m[✓][39m Connected device (2 available) [1 719ms]
+    [32m•[39m Linux (desktop) • linux  • linux-x64      • Fedora Linux 41 (Workstation Edition) 6.12.7-200.fc41.x86_64
+    [32m•[39m Chrome (web)    • chrome • web-javascript • Google Chrome 133.0.6943.53
+
+[32m[✓][39m Network resources [6,0s]
+    [32m•[39m All expected network resources are available.
+
+[32m•[39m No issues found!
+```
